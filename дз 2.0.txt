@@ -1,0 +1,11 @@
+       The buttons overlap slightly. They are clickable, but the visual representation of the product is distorted.
+
+  severity:Minor
+  priority:P1
+
+       The reporting module does not work in the system
+
+  severity:blocked
+  priority:P4
+
+       

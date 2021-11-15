@@ -1,0 +1,55 @@
+                                 File Manager interface 
+
+           Wrong Icons 
+
+  Swap icons "Delete" with "New Folder" 
+  Located in the top toolbar
+
+ Severity-Critical 
+ 
+ Priority: P2
+  
+
+
+         Repeating icons
+
+   Remove one of the icons "Rename"
+   Located in the top toolbar
+
+  
+ Severity-Critical 
+
+ Priority: P2
+
+ 
+            Wrong name
+
+      Rename "Go" to "Searh"
+      Located under the top toolbar
+        
+ Severity-normal
+
+ Priority: P3
+
+
+        Unnecessary check box
+                
+       Delete "Unselect all"
+       Located under the top toolbar
+
+ Severity-normal
+
+ Priority: P3
+        
+         Non-normal file types
+ 
+      File types have wrong names
+      Is in the file list
+
+ Severity-critical
+
+ Priority: P1
+      
+      
+       
+

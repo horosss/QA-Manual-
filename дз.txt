@@ -1,0 +1,11 @@
+       The site logo is written with a defect
+ 
+  severity:Trivial 
+  priority:P1
+
+       The site does not display images
+
+  severity:Minor 
+  priority:P1
+
+       
